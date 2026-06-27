@@ -3,6 +3,7 @@ Group 6 LuxDev
 
 This File contains a flat table students data with 324 rows 
 It contains details on school, students ,teachers , Fee payments and assessments
+
 DATA CLEANING
 Started by removing duplicates to ensure no id is repeating itself. 
 There was some alphabetical error on names,all locations(subcounty,county,region and country),Fixed by Capitalising each first word
